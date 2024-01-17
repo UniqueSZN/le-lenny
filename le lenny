@@ -1,0 +1,2 @@
+lenny_face = "( ͡° ͜ʖ ͡°)"
+print(lenny_face)
